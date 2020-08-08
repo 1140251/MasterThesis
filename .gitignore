@@ -2,3 +2,7 @@ analysis/.vscode/
 analysis/__pycache__/
 analysis/parsers/__pycache__/
 analysis/results/
+ethereum essencials pack/mythril/.vscode/
+ethereum essencials pack/ethereum-essentials/.vscode/
+ethereum essencials pack/ethereum-essentials/vsc-extension-quickstart.md
+ethereum essencials pack/mythril/client/vsc-extension-quickstart.md
