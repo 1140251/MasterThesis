@@ -1,0 +1,4 @@
+cmd: "dotnet ./verisol/bin/Debug/VeriSol.dll {contract} {name}"
+output_in_files:
+  folder: ./corral.txt
+level: source

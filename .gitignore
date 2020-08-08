@@ -1,0 +1,4 @@
+analysis/.vscode/
+analysis/__pycache__/
+analysis/parsers/__pycache__/
+analysis/results/
