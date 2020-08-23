@@ -1,0 +1,2 @@
+cmd: analyze {contract} --solv {version} -o json
+level: source

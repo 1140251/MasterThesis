@@ -1,0 +1,2 @@
+cmd: '/bin/bash -c "solc use {version} && /oyente/oyente/oyente.py -a -s {contract}"'
+level: source

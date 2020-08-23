@@ -1,0 +1,4 @@
+cmd: '/bin/bash -c "solc use {version} && slither {contract} --json output/output.json"'
+output_in_files:
+  folder: slither/output/output.json
+level: source

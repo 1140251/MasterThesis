@@ -1,0 +1,2 @@
+cmd: '/bin/bash -c "solc use {version} && python3.7 securify/__main__.py {contract}"'
+level: source

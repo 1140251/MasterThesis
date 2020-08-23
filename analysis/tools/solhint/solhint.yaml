@@ -1,0 +1,2 @@
+cmd: solhint -f unix {contract}
+level: source

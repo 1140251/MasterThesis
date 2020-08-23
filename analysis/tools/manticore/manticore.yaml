@@ -1,0 +1,4 @@
+cmd: '/bin/bash -c "solc use {version} && manticore --no-colors .{contract} && mv /mcore_* /results"'
+output_in_files:
+  folder: /results
+level: source
