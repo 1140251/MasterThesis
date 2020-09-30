@@ -33,6 +33,4 @@ RUN cd solc-select/scripts && sh ./install.sh
 ENV PATH="/root/.solc-select:${PATH}"
 
 
-COPY array-length-manipulation.sol .
-
 RUN mkdir output
